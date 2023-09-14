@@ -11,9 +11,13 @@ Print all stores - выводит все магазины в окно вывод
 # Где что находится?
 Ввод:
 После ввода нажмите кнопку "Enter".
+
  ![image](https://github.com/Timofey0603/store/assets/127236837/07c81de7-0ebb-41f6-a9cf-45406ac817f8) 
+ 
 Вывод:
+
  ![image](https://github.com/Timofey0603/store/assets/127236837/e998f66c-3b66-4d75-b9c6-3adba955bc1f) 
+ 
 
 # Библиотеки:
 Использует tkinter и компилятор python.

@@ -18,5 +18,5 @@
 # Библиотеки:
 # Использует tkinter и компилятор python.
 # Если Python на устройстве отсутствует, то программа не запустится. Скачать python можно ниже.
-https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe
+# https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe
 

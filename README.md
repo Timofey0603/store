@@ -1,4 +1,3 @@
-# ![image](https://github.com/Timofey0603/store/assets/127236837/bde4aa64-18fc-4e73-b6fb-aa7d14cff7cb
 # Функции. 
 
 # Add product - добавляет продукт. Нужно ввести имя, артикул, количество и цену. Пример: apple 100933 100 99.99
@@ -10,4 +9,14 @@
 # Print all stores - выводит все магазины в окно вывода.
 
 # Где что находится?
-![Uploading image.png…]()
+Ввод:
+После ввода нажмите кнопку "Enter".
+![image](https://github.com/Timofey0603/store/assets/127236837/07c81de7-0ebb-41f6-a9cf-45406ac817f8)
+Вывод:
+![image](https://github.com/Timofey0603/store/assets/127236837/e998f66c-3b66-4d75-b9c6-3adba955bc1f)
+
+# Библиотеки:
+# Использует tkinter и компилятор python.
+# Если Python на устройстве отсутствует, то программа не запустится. Скачать python можно ниже.
+https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe
+
